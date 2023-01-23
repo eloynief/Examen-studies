@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Carpeta-videos"/>
 	<classpathentry kind="src" path="Cosas-muy-importantes"/>
+	<classpathentry kind="src" path="clasesmultiple"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
